@@ -1,2 +1,4 @@
 # Actividad2
 Actividad 2 Minería de Datos
+
+Git y GitHub
